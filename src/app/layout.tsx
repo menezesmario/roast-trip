@@ -7,8 +7,8 @@ import { Navbar } from './components/Navbar';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'FullCommerce 13',
-  description: 'FullCommerce 13',
+  title: 'Roast Trip',
+  description: 'Your coffee shop template',
 }
 
 export default function RootLayout({
@@ -28,3 +28,5 @@ export default function RootLayout({
     </html>
   )
 }
+
+
